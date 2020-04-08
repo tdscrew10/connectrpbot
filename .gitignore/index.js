@@ -8,4 +8,4 @@ bot.on('ready', function() {
     console.log("ok mek");
 });
 
-bot.login(process.env.TOKEN)
+bot.login("Njg5ODkyMTYyMTIwMzE4OTg2.Xo2BpQ.NYDMAFwR9JWBtgrgQb_l7RSV58E")
